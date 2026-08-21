@@ -2,6 +2,19 @@
 
 ## Final Insights, Recommendations, and Presentation
 
+## Repository Contents
+
+This repository contains all required components for **MSCS 634 – Data Mining, Deliverable 4**:
+
+* **`Deliverable_4.ipynb`** – Consolidated Jupyter Notebook containing the complete data mining analysis and visualizations.
+* **`Deliverable_4_Comprehensive_Report.pdf`** – Final written report covering the project methodology, results, insights, ethical considerations, and recommendations.
+* **`Gym Members Exercise Data Mining Project.pptx`** – PowerPoint slides used for the final project presentation.
+* **`Presentation Video Link`** – Link to the 5–7 minute video presentation hosted on YouTube as an unlisted video.
+* **`README.md`** – Overview of the project, dataset, methods, and major findings.
+
+All required materials for the final deliverable are included in this repository.
+
+
 ### Project Overview
 
 This project analyzes the **Gym Members Exercise Dataset** using multiple data mining and machine learning techniques. The goal is to identify meaningful relationships between gym members' demographic characteristics, physical measurements, workout behaviors, and fitness outcomes.
